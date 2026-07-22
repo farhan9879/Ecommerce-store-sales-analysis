@@ -1,23 +1,32 @@
-# vrinda-store-sales-analysis
-## About
-This is an Excel data analysis project based on Vrinda Store sales data. The goal was to understand sales performance and create an interactive dashboard for business reporting.
+# E-Commerce Sales Dashboard
 
-## Tools
+## About
+This project focuses on analyzing e-commerce sales data using Microsoft Excel. The dashboard provides a clear view of sales performance, profit trends, customer behavior, and product performance, helping businesses make better data-driven decisions.
+
+## Objective
+- Monitor overall sales and profit
+- Identify top-performing products and categories
+- Compare sales across different regions
+- Understand customer purchasing patterns
+- Build an interactive dashboard for business reporting
+
+## Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Slicers
+- Conditional Formatting
 
-## Dashboard Includes
-- Monthly Sales
-- Sales by State
-- Sales by Category
-- Sales by Age Group
-- Sales by Gender
-- Sales by Sales Channel
+## Dashboard Highlights
+- Sales & Profit Overview
+- Regional Sales Analysis
+- Category & Product Performance
+- Customer Analysis
+- Interactive Filters
 
-## What I Learned
-- Cleaning and organizing data
-- Creating Pivot Tables and Charts
-- Building an interactive dashboard
-- Finding useful business insights from data
+## Key Skills
+- Data Cleaning
+- Data Analysis
+- Dashboard Design
+- Data Visualization
+- Business Insight Generation
